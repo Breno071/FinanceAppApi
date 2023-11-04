@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceAppApi", "FinanceAppApi.csproj", "{89A9B635-3057-47DE-96E3-208C8B59EEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\Data\Data.csproj", "{873A736B-77F3-403F-AA3F-5803DC8B3FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A9B635-3057-47DE-96E3-208C8B59EEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A9B635-3057-47DE-96E3-208C8B59EEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A9B635-3057-47DE-96E3-208C8B59EEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A9B635-3057-47DE-96E3-208C8B59EEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873A736B-77F3-403F-AA3F-5803DC8B3FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873A736B-77F3-403F-AA3F-5803DC8B3FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873A736B-77F3-403F-AA3F-5803DC8B3FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873A736B-77F3-403F-AA3F-5803DC8B3FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFCC352-8C94-42A4-9A86-893BC8EA7292}
+	EndGlobalSection
+EndGlobal
